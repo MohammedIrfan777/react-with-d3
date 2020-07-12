@@ -4,8 +4,8 @@
 
 Execute the below command to run the app
 
-npm install
-npm start
+### npm install
+### npm start
 
 ## Heroku url
 
